@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "RifaFácil",
+    "slug": "rifafacil",
+    "scheme": "rifafacil",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.luiss2080.rifafacil"
+    },
+    "android": {
+      "package": "com.luiss2080.rifafacil"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}
